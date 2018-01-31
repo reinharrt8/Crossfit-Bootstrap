@@ -1,2 +1,2 @@
 # Crossfit-Bootstrap
-Build a website with bootstrap framework
+Build a Responsive website with bootstrap framework
